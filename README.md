@@ -31,6 +31,7 @@ In addition, in this tool we can find in the "search company" section by inserti
 ```
 git clone https://github.com/micro-joan/D4TA-HUNTER
 cd D4TA-HUNTER/
+chmod +x run.sh
 ./run.sh
 ```
 
