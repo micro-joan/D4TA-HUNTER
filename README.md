@@ -46,3 +46,39 @@ Once you have the api-key you will be able to search for emails, with the advant
 
 ![1663779429409](https://user-images.githubusercontent.com/55983491/197561242-6e5f0b63-fdf2-454e-88a4-051361ab69a4.gif)
 
+You can also insert a domain of a company and D4TA-HUNTER will search for employee emails, subdomains that may be of interest together with IP's of machines found:
+
+![Untitled Project](https://user-images.githubusercontent.com/55983491/197567716-3e724e03-ad79-40be-9cf7-aa5dfe848e30.gif)
+
+# Apis and tools
+<table>
+  <thead>
+  <tr>
+    <th>Service</th>
+    <th>Functions</th>
+    <th>Status</th>
+  </tr>
+  </thead>
+<tbody>
+  
+<tr>
+  <td><a href="[https://haveibeenpwned.com/](https://breachdirectory.org/)" rel="nofollow">BreachDirectory.org</a></td>
+  <td>Email, phone or nick leaks</td>
+  <td><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> <g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑 (free plan)</g-emoji>
+  </td>
+</tr>
+<tr>
+  <td><a href="https://www.kali.org/tools/theharvester/" rel="nofollow">TheHarvester</a></td>
+   <td>Domains and emails of company</td>
+   <td><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> Free</g-emoji>
+  </td>
+</tr>
+<tr>
+  <td><a href="https://github.com/brainfucksec/kalitorify" rel="nofollow">Kalitorify</a></td>
+   <td>Tor search</td>
+   <td><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> Free</g-emoji>
+  </td>
+</tr>
+
+</tbody>
+</table>
