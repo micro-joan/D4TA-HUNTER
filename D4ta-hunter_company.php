@@ -160,7 +160,7 @@
                           <thead>
                             <tr>
                               <th>#</th>
-                              <th>DOMAINS ANS IP`S</th>
+                              <th>DOMAINS AND IP`S</th>
                             </tr>
                           </thead>
                           <tbody>';
