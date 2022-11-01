@@ -14,7 +14,7 @@ This Tool is made for educational purposes only. Do not attempt to violate the l
 </div>
 <hr>
 
-# D4TA-HUNTER - Osint Framework v1.0 
+# D4TA-HUNTER - Osint Framework for KALI 
 
 <div align="center"> 
   
