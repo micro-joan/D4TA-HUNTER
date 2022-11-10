@@ -27,6 +27,10 @@ D4TA-HUNTER is a tool created in order to automate the collection of information
 
 In addition, in this tool we can find in the "search company" section by inserting the domain of a company, emails of employees, subdomains and IP's of servers.
 
+#  GET API KEY
+
+Register on https://rapidapi.com/rohan-patra/api/breachdirectory
+
 #  Install
 
 ```
