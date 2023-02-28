@@ -88,3 +88,7 @@ You can also insert a domain of a company and D4TA-HUNTER will search for employ
 
 </tbody>
 </table>
+
+<h1>Support D4TA-HUNTER</h1>
+<p dir="auto"><a href="https://www.buymeacoffee.com/microjoan" rel="nofollow"><img width="250" alt="buymeacoffe" src="https://camo.githubusercontent.com/30c3222ed37f33ca6deeaa84826cb60918cf70adf20c1881e514a663f616411c/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d626c75652e706e67" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" style="max-width: 100%;"></a></p>
+
